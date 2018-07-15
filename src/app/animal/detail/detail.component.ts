@@ -4,7 +4,7 @@ import { IAnimal } from "../IAnimal";
 @Component({
   selector: 'app-animal-detail',
   templateUrl: './detail.component.html',
-  styleUrls: ['./detail.component.css']
+  styleUrls: ['./detail.component.scss']
 })
 export class AnimalDetailComponent implements OnInit {
 
